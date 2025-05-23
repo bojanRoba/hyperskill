@@ -1,3 +1,5 @@
 # Hyperskill Projects
 
-This is a repo for tracking my progress on Hyperskill projects. So let's begin...
+This is a repo for tracking my progress on Hyperskill projects. 
+
+Let's begin...
