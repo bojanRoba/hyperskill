@@ -1,5 +1,5 @@
 # Hyperskill Projects
 
-This is a repo for tracking my progress on Hyperskill Data Science & Analytics Course projects. 
+This is a repo for tracking my projects progress, on Hyperskill's Data Science & Analytics Course. 
 
 Let's begin...
